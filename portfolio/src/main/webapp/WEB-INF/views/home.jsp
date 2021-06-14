@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Jackson Template</title>
+	<title>Jeongmin`s portfolio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -60,8 +60,8 @@
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(../resources/images/about.jpg);"></div>
-				<h1 id="colorlib-logo"><a href="index.html">Jackson Ford</a></h1>
-				<span class="position"><a href="#">UI/UX/Designer</a> in Philippines</span>
+				<h1 id="colorlib-logo"><a href="index.html">Jeongmin Kim</a></h1>
+				<span class="position"><a href="#">Backend Developer</a> & JAVA/PYTHON</span>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
@@ -105,8 +105,8 @@
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
-						   					<h1>안녕! <br>I'm Jackson</h1>
-						   					<h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+						   					<h1>Hi! <br>I'm Jeongmin</h1>
+						   					<h2>임채무 바보 <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
 												<p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
 											</div>
 					   				</div>
@@ -121,7 +121,7 @@
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
-						   					<h1>I am <br>a Designer</h1>
+						   					<h1>I am <br>Backend Developer</h1>
 												<h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
 												<p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
 											</div>
